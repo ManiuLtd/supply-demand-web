@@ -1,0 +1,37 @@
+{
+	"data":[
+		{
+			"uriId":null,
+			"cache":"0",
+			"delMark":"0",
+			"show":"0",
+			"icon":"md-body",
+			"menuName":"页面1",
+			"pid":"512585442823114752",
+			"routeName":"renwujiancha",
+			"component":"Child",
+			"menuOrder":"0",
+			"createTime":"2018-11-15 11:11:45",
+			"menuType":"0",
+			"model":null,
+			"id":"512585496204021760"
+		},
+		{
+			"uriId":null,
+			"cache":"0",
+			"delMark":"0",
+			"show":"0",
+			"icon":"ios-easel",
+			"menuName":"页面2",
+			"pid":"512585496204021760",
+			"routeName":"gongzuojiancha_cgxs",
+			"component":"gongzuojiancha/tabIndex1.vue",
+			"menuOrder":"0",
+			"createTime":"2018-11-15 11:12:05",
+			"menuType":"0",
+			"model":null,
+			"id":"512585578173304832"
+		}
+	],
+	"success":true
+}
